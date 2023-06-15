@@ -1,2 +1,1 @@
-# import-registry
-A web app to help pricing imported goods for a mobile phone accessories store
+### A web app to ease imported goods pricing

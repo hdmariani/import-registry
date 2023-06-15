@@ -1,0 +1,47 @@
+{
+  "cssImports": {
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/layout.tsx": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/components/componentStyles.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/globals.css"
+    ],
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/page.tsx": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/page.module.css"
+    ],
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/new-import/page.tsx": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/new-import/page.module.css"
+    ],
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/search-import/page.tsx": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/search-import/page.module.css"
+    ],
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/login/page.tsx": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/login/page.module.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/page": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/page.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/components/componentStyles.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/globals.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/new-import/page": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/new-import/page.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/components/componentStyles.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/globals.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/search-import/page": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/search-import/page.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/components/componentStyles.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/globals.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/login/page": [
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/login/page.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/components/componentStyles.module.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/globals.css",
+      "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
