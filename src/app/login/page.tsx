@@ -1,8 +1,8 @@
+import LoginForm from '@/components/LoginForm'
 import styles from './page.module.css'
 
 export default function Home() {
   return (<div className={styles.div}>
-    LOGIN FORM
+    <LoginForm/>
     </div>)
-  
 }

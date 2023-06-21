@@ -199,7 +199,7 @@
   },
   "edgeSSRModuleMapping": {},
   "clientModules": {
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/app-router.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -207,7 +207,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -215,7 +215,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/app-router.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -223,7 +223,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -231,7 +231,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/app-router.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -239,7 +239,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -247,15 +247,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "getServerActionDispatcher",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -263,7 +255,15 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -271,7 +271,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -279,7 +279,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -287,7 +287,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -295,7 +295,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -303,7 +303,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -311,7 +311,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -319,7 +319,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -327,15 +327,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
-      "name": "ErrorBoundaryHandler",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -343,7 +335,15 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -351,7 +351,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -359,7 +359,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -367,7 +367,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -375,7 +375,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -383,7 +383,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -391,7 +391,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -399,7 +399,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -407,15 +407,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
-      "name": "RedirectErrorBoundary",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -423,7 +415,15 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -431,7 +431,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -439,7 +439,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -447,7 +447,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -455,7 +455,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -463,7 +463,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -471,7 +471,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -479,7 +479,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -487,7 +487,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -495,7 +495,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -503,7 +503,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -511,7 +511,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -519,7 +519,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -527,7 +527,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -535,7 +535,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -543,7 +543,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -551,7 +551,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -559,7 +559,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -567,7 +567,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -575,7 +575,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -583,7 +583,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -591,7 +591,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -599,7 +599,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -607,7 +607,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -615,7 +615,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -623,7 +623,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -631,15 +631,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -647,7 +639,15 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -655,7 +655,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -663,7 +663,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -671,7 +671,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -679,7 +679,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -687,7 +687,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -695,15 +695,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -711,7 +703,15 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -719,7 +719,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -727,7 +727,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/layout-router.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -735,7 +735,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -743,7 +743,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/layout-router.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -751,7 +751,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -759,7 +759,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/layout-router.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -767,7 +767,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -775,7 +775,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -783,7 +783,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -791,7 +791,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -799,7 +799,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -807,7 +807,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -815,7 +815,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -823,7 +823,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -831,7 +831,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -839,7 +839,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -847,7 +847,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -855,7 +855,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -863,7 +863,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -871,35 +871,35 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/page.module.css#": {
+    "/home/user/Pessoal/Projetos/import-registry/src/app/page.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/page.css"
       ]
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/globals.css#": {
+    "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/components/componentStyles.module.css#": {
+    "/home/user/Pessoal/Projetos/import-registry/src/components/componentStyles.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/link.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -907,7 +907,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/link.js": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -915,7 +915,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/link.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -923,7 +923,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/link.js#": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -931,7 +931,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/client/link.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -939,7 +939,7 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/node_modules/next/dist/esm/client/link.js#default": {
+    "/home/user/Pessoal/Projetos/import-registry/node_modules/next/dist/esm/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -947,25 +947,25 @@
       ],
       "async": false
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/new-import/page.module.css#": {
+    "/home/user/Pessoal/Projetos/import-registry/src/app/new-import/page.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/new-import/page.css"
       ]
     },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/search-import/page.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/search-import/page.css"
-      ]
-    },
-    "/Users/hermanomariani/Desenvolvimento/projetos/import-registry/src/app/login/page.module.css#": {
+    "/home/user/Pessoal/Projetos/import-registry/src/app/login/page.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/login/page.css"
+      ]
+    },
+    "/home/user/Pessoal/Projetos/import-registry/src/app/search-import/page.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/search-import/page.css"
       ]
     }
   }
