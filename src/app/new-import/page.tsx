@@ -1,8 +1,10 @@
+import ImportForm from '@/components/ImportForm'
 import styles from './page.module.css'
 
 export default function Home() {
-  return (<div className={styles.div}>
-    NEW IMPORT FORM
-    </div>)
-  
+  return (
+    <>
+      <ImportForm/>
+    </>
+  )
 }

@@ -1,6 +1,9 @@
+import styles from './componentStyles.module.css'
+
+
 export default function LoginForm(){
   return(
-      <form>
+      <form className={styles.loginForm}>
           <label htmlFor="username">Usuário</label>
           <input
               type="text"

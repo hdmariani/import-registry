@@ -1,5 +1,5 @@
 {
+  "/login/page": "app/login/page.js",
   "/new-import/page": "app/new-import/page.js",
-  "/search-import/page": "app/search-import/page.js",
-  "/login/page": "app/login/page.js"
+  "/search-import/page": "app/search-import/page.js"
 }

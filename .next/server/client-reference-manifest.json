@@ -871,13 +871,6 @@
       ],
       "async": false
     },
-    "/home/user/Pessoal/Projetos/import-registry/src/app/page.module.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/page.css"
-      ]
-    },
     "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css#": {
       "id": "null",
       "name": "default",
@@ -947,11 +940,11 @@
       ],
       "async": false
     },
-    "/home/user/Pessoal/Projetos/import-registry/src/app/new-import/page.module.css#": {
+    "/home/user/Pessoal/Projetos/import-registry/src/app/page.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/new-import/page.css"
+        "static/css/app/page.css"
       ]
     },
     "/home/user/Pessoal/Projetos/import-registry/src/app/login/page.module.css#": {

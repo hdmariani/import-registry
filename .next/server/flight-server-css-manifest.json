@@ -26,14 +26,13 @@
       "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
     "/home/user/Pessoal/Projetos/import-registry/src/app/new-import/page": [
-      "/home/user/Pessoal/Projetos/import-registry/src/app/new-import/page.module.css",
       "/home/user/Pessoal/Projetos/import-registry/src/components/componentStyles.module.css",
       "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css",
       "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
     "/home/user/Pessoal/Projetos/import-registry/src/app/login/page": [
-      "/home/user/Pessoal/Projetos/import-registry/src/app/login/page.module.css",
       "/home/user/Pessoal/Projetos/import-registry/src/components/componentStyles.module.css",
+      "/home/user/Pessoal/Projetos/import-registry/src/app/login/page.module.css",
       "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css",
       "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
