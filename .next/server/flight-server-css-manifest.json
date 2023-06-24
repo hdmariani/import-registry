@@ -1,46 +1,25 @@
 {
   "cssImports": {
-    "/home/user/Pessoal/Projetos/import-registry/src/app/layout.tsx": [
-      "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
-      "/home/user/Pessoal/Projetos/import-registry/src/components/componentStyles.module.css",
-      "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css"
+    "/home/hdmariani/projetos/import-registry/src/app/layout.tsx": [
+      "/home/hdmariani/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/home/hdmariani/projetos/import-registry/src/components/componentStyles.module.css",
+      "/home/hdmariani/projetos/import-registry/src/app/globals.css"
     ],
-    "/home/user/Pessoal/Projetos/import-registry/src/app/page.tsx": [
-      "/home/user/Pessoal/Projetos/import-registry/src/app/page.module.css"
-    ],
-    "/home/user/Pessoal/Projetos/import-registry/src/app/new-import/page.tsx": [
-      "/home/user/Pessoal/Projetos/import-registry/src/app/new-import/page.module.css"
-    ],
-    "/home/user/Pessoal/Projetos/import-registry/src/app/login/page.tsx": [
-      "/home/user/Pessoal/Projetos/import-registry/src/app/login/page.module.css"
-    ],
-    "/home/user/Pessoal/Projetos/import-registry/src/app/search-import/page.tsx": [
-      "/home/user/Pessoal/Projetos/import-registry/src/app/search-import/page.module.css"
+    "/home/hdmariani/projetos/import-registry/src/app/page.tsx": [
+      "/home/hdmariani/projetos/import-registry/src/app/page.module.css"
     ]
   },
   "cssModules": {
-    "/home/user/Pessoal/Projetos/import-registry/src/app/page": [
-      "/home/user/Pessoal/Projetos/import-registry/src/app/page.module.css",
-      "/home/user/Pessoal/Projetos/import-registry/src/components/componentStyles.module.css",
-      "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css",
-      "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    "/home/hdmariani/projetos/import-registry/src/app/page": [
+      "/home/hdmariani/projetos/import-registry/src/app/page.module.css",
+      "/home/hdmariani/projetos/import-registry/src/components/componentStyles.module.css",
+      "/home/hdmariani/projetos/import-registry/src/app/globals.css",
+      "/home/hdmariani/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
-    "/home/user/Pessoal/Projetos/import-registry/src/app/new-import/page": [
-      "/home/user/Pessoal/Projetos/import-registry/src/components/componentStyles.module.css",
-      "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css",
-      "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
-    ],
-    "/home/user/Pessoal/Projetos/import-registry/src/app/login/page": [
-      "/home/user/Pessoal/Projetos/import-registry/src/components/componentStyles.module.css",
-      "/home/user/Pessoal/Projetos/import-registry/src/app/login/page.module.css",
-      "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css",
-      "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
-    ],
-    "/home/user/Pessoal/Projetos/import-registry/src/app/search-import/page": [
-      "/home/user/Pessoal/Projetos/import-registry/src/app/search-import/page.module.css",
-      "/home/user/Pessoal/Projetos/import-registry/src/components/componentStyles.module.css",
-      "/home/user/Pessoal/Projetos/import-registry/src/app/globals.css",
-      "/home/user/Pessoal/Projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    "/home/hdmariani/projetos/import-registry/src/app/new-import/page": [
+      "/home/hdmariani/projetos/import-registry/src/components/componentStyles.module.css",
+      "/home/hdmariani/projetos/import-registry/src/app/globals.css",
+      "/home/hdmariani/projetos/import-registry/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ]
   }
 }

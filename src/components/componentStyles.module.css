@@ -49,10 +49,15 @@
 }
 
 .importForm {
+    grid-template-columns: 22% 22% auto;
+    grid-template-rows: 22% auto;
+}
+
+.productRow {
+    width:90%;
+    border: 2pt solid var(--black);
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 10pt
+    justify-content: space-between ;
 }
 
 .footer {

@@ -15,19 +15,8 @@
     "/new-import/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
+      "static/css/app/new-import/page.css",
       "static/chunks/app/new-import/page.js"
-    ],
-    "/login/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/login/page.css",
-      "static/chunks/app/login/page.js"
-    ],
-    "/search-import/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/search-import/page.css",
-      "static/chunks/app/search-import/page.js"
     ]
   }
 }
